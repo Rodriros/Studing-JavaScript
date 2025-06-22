@@ -1,3 +1,9 @@
+---
+noteId: "746890604ef111f0b0bdd9196fb7b8a6"
+tags: []
+
+---
+
 # Sintaxe e Operadores
 Este repositório contém a atividade prática do Curso "Sintaxe e Operadores".
 
